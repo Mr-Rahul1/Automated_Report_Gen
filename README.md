@@ -57,3 +57,8 @@ We created a custom PDF class with header and footer methods for consistent form
 The report was formatted with readable fonts and spacing, making it easy to share or archive.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e564b5f0-c46a-48b5-9194-7c38b544766a)
+![Image](https://github.com/user-attachments/assets/0b4b9c58-451b-43e5-b44a-0abc1cbb7c7a)
+![Image](https://github.com/user-attachments/assets/416bf18b-d02a-4504-b9cd-bf822ba43406)
+![Image](https://github.com/user-attachments/assets/c057919e-ee3d-4c2a-af11-332e22344bd1)
